@@ -27,3 +27,15 @@ The POS System serves as a digital cash register, offering features to handle sa
 - **Sales Reports:**
   - View and export sales reports for analysis.
   - Monitor sales trends and popular products.
+  - 
+## Technologies Used
+
+- **CodeIgniter:**
+  - PHP framework for building robust web applications.
+
+- **Frontend:**
+  - HTML, CSS, JavaScript
+  - Bootstrap for responsive design
+
+- **Database:**
+  - MySQL for data storage
