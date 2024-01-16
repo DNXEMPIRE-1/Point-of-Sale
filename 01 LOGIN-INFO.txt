@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!**
-
 **Database Name: posimsci**
 
-**Developed by Alger Makiputin**
+**Developed by DNX EMPIRE**
 
 **Recommended PHP Version 5, 7**
 
@@ -10,14 +8,14 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: dnx.com
 
 **Cashier Login Details**
 
 Username: cashier
-Password: codeastro.com
+Password: dnx.com
 
 **Clerk Login Details**
 
 Username: clerk
-Password: codeastro.com
+Password: dnx.com
