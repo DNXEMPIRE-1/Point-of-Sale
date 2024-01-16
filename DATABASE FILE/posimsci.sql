@@ -96,9 +96,9 @@ INSERT INTO `items` (`id`, `name`, `category`, `description`, `date_time`, `crea
 (2, 'Item Two', 'Demo Category', 'demo demo demo demo demo demo', '2023-12-07 10:11:16', 'admin', 54, '30.00'),
 (3, 'Item Three', 'Category One', 'qwerty qwery qwet qwww', '2023-12-07 10:13:48', 'admin', 38, '13.00'),
 (4, 'TestItem', 'CategoryTest', 'This is a test. This is a test. This is a test. This is a test.', '2023-12-07 10:52:53', 'admin', 89, '52.00'),
-(5, 'Astro', 'Category One', 'astro test', '2023-12-07 10:53:21', 'admin', 31, '28.00'),
+(5, 'dnx', 'Category One', 'dnx test', '2023-12-07 10:53:21', 'admin', 31, '28.00'),
 (6, 'ABC', 'Category QQ', 'qweqwe qweqww qweqw', '2023-12-07 11:27:42', 'admin', 222, '5.00'),
-(7, 'XYZZ', 'Category Three', 'code astro', '2023-12-07 11:28:00', 'admin', 25, '28.00'),
+(7, 'XYZZ', 'Category Three', 'dnx empire', '2023-12-07 11:28:00', 'admin', 25, '28.00'),
 (8, 'Test123', 'CategoryTest', 'aaaa bbb cccc', '2023-12-07 11:28:38', 'admin', 77, '52.00'),
 (9, 'Prod 88', 'Category QQ', 'asdaqweqww', '2023-12-07 11:29:03', 'admin', 69, '19.00'),
 (10, 'Item XY', 'CategoryTwo', 'as qw ww rrrr ttttttttttt', '2023-12-07 11:29:22', 'admin', 74, '21.00'),
@@ -134,12 +134,12 @@ INSERT INTO `sales` (`sale_id`, `item_id`, `item_name`, `item_price`, `quantity`
 (3, 2, 'Item Two', '30.00', 11, '330.00', '2023-12-07', 12, 2023, 49),
 (4, 1, 'Item One', '28.00', 3, '84.00', '2023-12-07', 12, 2023, 49),
 (5, 3, 'Item Three', '13.00', 11, '143.00', '2023-12-07', 12, 2023, 49),
-(6, 5, 'Astro', '28.00', 13, '364.00', '2023-12-07', 12, 2023, 49),
+(6, 5, 'dnx', '28.00', 13, '364.00', '2023-12-07', 12, 2023, 49),
 (7, 10, 'Item XY', '21.00', 5, '105.00', '2023-12-07', 12, 2023, 49),
 (8, 11, 'Test Item', '23.00', 5, '115.00', '2023-12-08', 12, 2023, 49),
 (9, 2, 'Item Two', '30.00', 3, '90.00', '2023-12-08', 12, 2023, 49),
 (10, 3, 'Item Three', '13.00', 7, '91.00', '2023-12-08', 12, 2023, 49),
-(11, 5, 'Astro', '28.00', 6, '168.00', '2023-12-08', 12, 2023, 49),
+(11, 5, 'dnx', '28.00', 6, '168.00', '2023-12-08', 12, 2023, 49),
 (12, 12, 'Test Test', '38.00', 11, '418.00', '2023-12-08', 12, 2023, 49);
 
 --
