@@ -11,7 +11,7 @@
     <!-- jQuery -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- DataTables JavaScript -->
-	<!-- Visit "codeastro" for more projects -->
+	<!-- Visit "DNXEMPIRE-1" for more projects -->
     <script type="text/javascript" src="https://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
 </head>
 <body>

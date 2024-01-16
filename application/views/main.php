@@ -143,7 +143,7 @@
 
 
  <!-- Initialize DataTables -->
- <!-- Visit "codeastro" for more projects -->
+ <!-- Visit "DNXEMPIRE-1" for more projects -->
  <script type="text/javascript">
         $(document).ready(function() {
             $('#item_tbl').DataTable();

@@ -51,7 +51,7 @@
 			</div>
 			</div>
 		</div>
-		<!-- Visit "codeastro" for more projects -->
+		<!-- Visit "DNXEMPIRE-1" for more projects -->
 		<div class="row item_info">
 			<div>
 			<div class="col-sm-4">

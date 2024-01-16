@@ -30,7 +30,7 @@
 <?php echo form_close(); ?>
 </div>
 <div class="col-sm-8">
-<!-- Visit "codeastro" for more projects -->
+<!-- Visit "DNXEMPIRE-1" for more projects -->
 	<?php echo form_fieldset('<h2 class="text-dark">All Users</h2>'); ?>
 	<table class="table table-striped table-hover table-bordered table-condensed table-responsive" id="item_tbl">
 		<tr>

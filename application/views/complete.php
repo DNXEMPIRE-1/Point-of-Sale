@@ -42,7 +42,7 @@
 <div class="col-sm-7">
 	<p class="lead">$<?php echo $change;?></p>
 </div>
-<!-- Visit "codeastro" for more projects -->
+<!-- Visit "DNXEMPIRE-1" for more projects -->
 </div>
 </div>
 </div>
